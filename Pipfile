@@ -9,7 +9,7 @@ name = "pypi"
 
 django = "==2.1.1"
 django-filter = "==2.0.0"
-django-guardian = "==1.4.*"
+django-guardian = "==1.4.9"
 reportlab = "==3.5.*"
 django-crontab = "==0.7.*"
 
