@@ -39,10 +39,10 @@
         },
         "django-guardian": {
             "hashes": [
-                "sha256:9e144bbdfa67f523dc6f70768653a19c0aac29394f947a80dcb8eb7900840637",
-                "sha256:ed47220d5e7a849c92ead9f25c5a576df3cebfd4ec398beee819418e0b6f2470"
+                "sha256:60a4932e322b4474ab76400f3f542ecdf9bee069dbed0ce0c7af55559ec83d3a",
+                "sha256:e4cf6a6406f5e6341e20dfda4f6fb9977da7708323c9d4aa7317c585b694ed86"
             ],
-            "version": "==1.5.0"
+            "version": "==1.5.1"
         },
         "pillow": {
             "hashes": [
