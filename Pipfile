@@ -7,11 +7,11 @@ name = "pypi"
 
 [packages]
 
-django = "==2.2.1"
-django-filter = "==2.1.0"
-django-guardian = "==1.5.1"
-reportlab = "==3.5.21"
-django-crontab = "==0.7.1"
+django = ">=2.2.1"
+django-filter = ">=2.1.0"
+django-guardian = ">=1.5.1"
+reportlab = ">=3.5.21"
+django-crontab = ">=0.7.1"
 
 
 [dev-packages]
