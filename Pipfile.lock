@@ -25,11 +25,10 @@
         },
         "django": {
             "hashes": [
-                "sha256:ccf5d58cfe53601afcf38d53cb5a3ed6a915afcfdb728593ce8594f96ca21cd8",
-                "sha256:ccfaf8c7e72cecbf97de52633b30995659a6ad14a0e4a8c4ebc78b353e8ed78d"
+                "sha256:315b11ea265dd15348d47f2cbb044ef71da2018f6e582fed875c889758e6f844",
+                "sha256:b61295749be7e1c42467c55bcabdaee9fbe9496fdf9ed2e22cef44d9de2ff953"
             ],
-            "index": "pypi",
-            "version": "==3.0a1"
+            "version": "==3.0.1"
         },
         "django-crontab": {
             "hashes": [
