@@ -273,11 +273,10 @@
         },
         "pylint": {
             "hashes": [
-                "sha256:3db5468ad013380e987410a8d6956226963aed94ecb5f9d3a28acca6d9ac36cd",
-                "sha256:886e6afc935ea2590b462664b161ca9a5e40168ea99e5300935f6591ad467df4"
+                "sha256:357e30b0cce26b078e58a6a668afdee9b9a04bd25ec982691f2f95c26301e674",
+                "sha256:f1a99799b1748bc5241e9a6b5a518893b34e2fd6245460207dec71f46c0abc17"
             ],
-            "index": "pypi",
-            "version": "==2.4.4"
+            "version": "==2.5.1"
         },
         "pyparsing": {
             "hashes": [
