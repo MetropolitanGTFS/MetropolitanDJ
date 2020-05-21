@@ -8,10 +8,10 @@ name = "pypi"
 [packages]
 
 django = "==3.0.*"
-django-filter = ">=2.1.0"
-django-guardian = ">=2.0.0"
-reportlab = ">=3.5.21"
-django-crontab = ">=0.7.1"
+django-filter = "==2.2.*"
+django-guardian = "==2.2.0"
+reportlab = "==3.5.*"
+django-crontab = "==0.7.*"
 
 
 [dev-packages]
