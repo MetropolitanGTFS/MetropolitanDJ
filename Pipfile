@@ -6,28 +6,19 @@ name = "pypi"
 
 
 [packages]
-
-django = "==3.0.*"
-django-filter = "==2.2.*"
-django-guardian = "==2.2.0"
-reportlab = "==3.5.*"
-django-crontab = "==0.7.*"
+django = "*"
+django-filter = "*"
+django-guardian = "*"
+reportlab = "*"
+django-crontab = "*"
 
 
 [dev-packages]
-
 pylint = "*"
 autopep8 = "*"
 rope = "*"
 safety = "*"
-black = "*"
 
 
 [requires]
-
 python_version = "3"
-
-
-[pipenv]
-
-allow_prereleases = true
