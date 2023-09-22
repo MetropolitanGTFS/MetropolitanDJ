@@ -6,19 +6,20 @@ name = "pypi"
 
 
 [packages]
-django = ">=3.2"
+django = ">=4.0"
 django-filter = ">=2.4.0"
-django-guardian = ">=2.3.0"
-reportlab = ">=3.5.67"
+django-guardian = ">=2.4.0"
+reportlab = ">=4.0.0"
 django-crontab = ">=0.7.1"
 
 
 [dev-packages]
 pylint = ">=2.7.2"
+pylint-django = "*"
 autopep8 = ">=1.5.5"
 rope = ">=0.18.0"
 safety = ">=1.10.3"
 
 
 [requires]
-python_version = "3.9"
+python_version = "3.10"
